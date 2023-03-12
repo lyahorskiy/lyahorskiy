@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 # Hello :)
  I'm glad to welcome you to my GitHub profile. Here you can find my projects and works that I have worked on and continue to work on. 
- ___
+
 
  ## My skills and current projects:
 * Programming languages: <br><br>
@@ -38,5 +38,5 @@ Here are some ideas to get you started:
 Also studying 
 
 * <img width="40" src="https://wpintegrate.com/wp-content/uploads/2017/07/react-logo.png"></img>
-___
+
 If you have any questions or suggestions, do not hesitate to contact me through my GitHub profile. I'll be happy to collaborate with you.
