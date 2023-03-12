@@ -18,11 +18,11 @@ Here are some ideas to get you started:
  I'm glad to welcome you to my GitHub profile. Here you can find my projects and works that I have worked on and continue to work on. 
 
 
- ## My skills and current projects:
-* Programming languages:<br><br>
-<img width="20" src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png"></img>
-<img width="20" src="https://cdn-icons-png.flaticon.com/128/5968/5968267.png"></img>
-<img width="20" src="https://cdn-icons-png.flaticon.com/128/5968/5968242.png"></img>
+ * ## My skills and current projects:
+* * Programming languages:<br><br>
+    <img width="20" src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png"></img>
+    <img width="20" src="https://cdn-icons-png.flaticon.com/128/5968/5968267.png"></img>
+    <img width="20" src="https://cdn-icons-png.flaticon.com/128/5968/5968242.png"></img>
 
 * Tools:<br>
 <img width="20" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"></img>
