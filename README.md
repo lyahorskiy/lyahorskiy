@@ -21,9 +21,9 @@ Here are some ideas to get you started:
  ## My skills and current projects:
 * Programming languages:
 
-  <img width="20" src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png"></img><span></span>
+  <img width="20" src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png"></img>
 <img width="20" src="https://cdn-icons-png.flaticon.com/128/5968/5968267.png"></img>
-<img width="20" src="https://cdn-icons-png.flaticon.com/128/5968/5968242.png"></img> <br><br>
+<img width="20" src="https://cdn-icons-png.flaticon.com/128/5968/5968242.png"></img>
 
 * Tools:
 
